@@ -1,0 +1,1 @@
+Modelos, casi toda la inteligencia artificial se basa en generación de modelos o funciones,

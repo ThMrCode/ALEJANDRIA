@@ -1,0 +1,6 @@
+{
+  "autorun": true,
+  "template": "Templates/daily-template.md",
+  "folder": "Daily Notes (Notas Diarias)",
+  "format": "📅 DD MMMM YYYY"
+}

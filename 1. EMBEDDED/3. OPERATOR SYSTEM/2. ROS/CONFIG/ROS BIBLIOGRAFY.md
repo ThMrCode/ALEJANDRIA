@@ -1,0 +1,3 @@
+- Curso de ROS Noetic https://www.youtube.com/watch?v=**wfDJAYTMTdk
+- Curso de ROS Noetic https://www.udemy.com/course/ros-for-beginners/?couponCode=MAR_25
+- Wiki de ROS Noetic https://wiki.ros.org/noetic

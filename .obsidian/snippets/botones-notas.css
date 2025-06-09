@@ -1,0 +1,18 @@
+.nav-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.nav-buttons a {
+    background-color: #4CAF50; /* Color verde */
+    color: white;
+    padding: 8px 12px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.nav-buttons a:hover {
+    background-color: #45a049; /* Color verde oscuro al pasar el mouse */
+}

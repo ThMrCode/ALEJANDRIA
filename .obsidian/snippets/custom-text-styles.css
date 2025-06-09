@@ -1,0 +1,61 @@
+/* Red Text */
+.color-red {
+    color: red;
+}
+
+/* Blue Text */
+.color-blue {
+    color: blue;
+}
+
+/* Green Text */
+.color-green {
+    color: green;
+}
+
+/* Yellow Text */
+.color-yellow {
+    color: yellow;
+}
+
+/* Yellow Text with Black Background */
+.bg-yellow {
+    background-color: yellow;
+    color: black;
+    padding: 2px 5px;
+    border-radius: 4px;
+}
+
+/* Light Blue Text with Dark Blue Background */
+.bg-blue {
+    background-color: darkblue;
+    color: lightblue;
+    padding: 2px 5px;
+    border-radius: 4px;
+}
+
+/* White Text with Red Background */
+.bg-red {
+    background-color: red;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 4px;
+}
+
+/* White Text with blak Background */
+.bg-black {
+    background-color: black;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 4px;
+}
+
+/* black Text with white Background */
+.bg-white {
+    background-color: white;
+    color: black;
+    padding: 2px 5px;
+    border-radius: 4px;
+}
+	
+
