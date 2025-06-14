@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85f1a20ef1c29e61",
+        "id": "3d41b158ffa19217",
         "type": "tabs",
         "children": [
           {
-            "id": "bfb043cba8a9a376",
+            "id": "a4e3e02f5bf75754",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,12 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfb043cba8a9a376",
+  "active": "a4e3e02f5bf75754",
   "lastOpenFiles": [
+    "1. EMBEDDED/1. FIRMWARE/1. DEVELOPMENT ENVIROMENT/4. J-TAG.md",
     "1. EMBEDDED/1. FIRMWARE/1. DEVELOPMENT ENVIROMENT/3. ESP-IDF.md",
     "1. EMBEDDED/1. FIRMWARE/1. DEVELOPMENT ENVIROMENT/2. PLATFORMIO.md",
     "1. EMBEDDED/1. FIRMWARE/1. DEVELOPMENT ENVIROMENT/1. WORK-FLOW (SDK).md",
-    "1. EMBEDDED/1. FIRMWARE/1. DEVELOPMENT ENVIROMENT/4. J-TAG.md",
     "Pasted image 20250527225920.png",
     "1. EMBEDDED/2. HARDWARE/CPU/CPU (CENTRAL PROCESSING  UNIT).md",
     "6. MECHANICAL/Tecnologys.md",
