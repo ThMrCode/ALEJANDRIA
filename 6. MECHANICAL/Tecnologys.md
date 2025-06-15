@@ -1,5 +1,7 @@
 Dominar tipos de mecanismos, mejores formas de transmisión de movimiento menos desgaste, engranajes fajas
 
+El diseño 3D se divide por el tipo de superficies a tratar
+
 Diseno 3D
 Analisis Estructural 
 Diseno de Fabricas
